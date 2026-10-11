@@ -15,10 +15,10 @@ Open to internship and part-time roles in backend and machine learning.
 
 ### Tech
 
-**Languages:** Python, Kotlin, JavaScript, SQL
-**Backend:** FastAPI, PostgreSQL, REST APIs
-**ML:** PyTorch, JAX/Flax, scikit-learn, pandas, reinforcement learning, RAG
-**Infra:** Docker, Linux, Proxmox, Git
+- **Languages:** Python, Kotlin, JavaScript, SQL
+- **Backend:** FastAPI, PostgreSQL, REST APIs
+- **ML:** PyTorch, JAX/Flax, scikit-learn, pandas, reinforcement learning, RAG
+- **Infra:** Docker, Linux, Proxmox, Git
 
 ### Contact
 
